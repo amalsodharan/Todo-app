@@ -1,0 +1,54 @@
+body{
+  background-color: indigo;
+  font-family: sans-serif;
+  letter-spacing: 2px;
+  font-weight: 100px;
+}
+.App{
+  text-align: center;
+  padding-top: 130px;
+}
+h1{
+  color: white;
+  font-size: 50px;
+}
+h3{
+  color: white;
+  font-size: 30px;
+}
+.box{
+  height: 40px;
+  width: 250px;
+  border-radius: 8px;
+  border-style: none;
+  text-align: center;
+}
+.cbox{
+  height: 30px;
+  width: 50px;
+  border-radius: 8px;
+}
+.cbox2{
+  height: 40px;
+  width: 80px;
+  border-radius: 8px;
+  border-style: none;
+  background-color: indigo;
+  color: white;
+  font-weight: bold;
+}
+.ctop1{
+  display: inline-flex;
+}
+.adBtn{
+  height: 40px;
+  border-radius: 8px;
+  border-style: none;
+}
+.cmain{
+  background-color: white;
+  width: 300px;
+}
+p{
+  color: indigo;
+}
